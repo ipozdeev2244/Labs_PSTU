@@ -1,0 +1,32 @@
+﻿  Graph.cpp
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(109,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(161,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(162,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(312,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(333,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(340,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(371,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(372,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(399,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(400,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(425,34): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(425,21): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(426,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(428,41): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(429,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(453,32): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(454,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(575,27): warning C4305: аргумент: усечение из "double" в "GLfloat"
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(607,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(608,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(612,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(613,10): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(617,17): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(617,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(652,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(653,9): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+C:\Users\acer\Desktop\информатика\TestApp\TestApp\Graph.cpp(828,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Main.cpp
+  Создание кода...
+  TestApp.vcxproj -> C:\Users\acer\Desktop\информатика\TestApp\Debug\TestApp.exe
